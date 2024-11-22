@@ -1,0 +1,12 @@
+<script src="/js/jquery-3.6.0.min.js"></script>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/waypoints.min.js"></script>
+    <!-- <script src="/js/all.min.js"></script> -->
+    <script src="/js/swiper.min.js"></script>
+    <script src="/js/lightcase.js"></script>
+    <script src="/js/isotope.pkgd.min.js"></script>
+    <!-- <script src="/js/donate-range.js"></script> -->
+    <script src="/js/jquery.counterup.min.js"></script>
+    <script src="/js/wow.js"></script>
+    <script src="/js/custom.js"></script>
+    <script src="/js/scroller.js"></script>
